@@ -39,6 +39,3 @@ Assets/
 ├── Prefabs/ # (Optional) UI and object prefabs
 
 ## 📸 Demo
-![alt text](image.png)
-
-![alt text](image-1.png)
