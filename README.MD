@@ -39,3 +39,7 @@ Assets/
 ├── Prefabs/ # (Optional) UI and object prefabs
 
 ## 📸 Demo
+
+### 🏀 Simulation in Action
+(Screenshots/ss1.png)
+(Screenshots/ss2.png)
