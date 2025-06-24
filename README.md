@@ -27,7 +27,6 @@ This Unity project simulates a bouncing ball to visualize kinetic and potential 
 
 - Unity 2022.3 LTS or newer
 - No external packages required (pure Unity)
-  (Screenshots/ss1,png)
 
 ## 📂 Folder Structure
 
