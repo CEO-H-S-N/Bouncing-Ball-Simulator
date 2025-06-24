@@ -37,9 +37,3 @@ Assets/
 ├── Materials/ # Physics materials (e.g., bouncy)
 ├── Scenes/ # Contains demo scenes
 ├── Prefabs/ # (Optional) UI and object prefabs
-
-## 📸 Demo
-
-### 🏀 Simulation in Action
-(Screenshots/ss1.png)
-(Screenshots/ss2.png)
